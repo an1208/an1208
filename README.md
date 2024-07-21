@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @an1208
 - 👀 I’m interested in coding and reading
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me anushka.sh0812@gmail.com
 - 😄 Pronouns: she/her
