@@ -1,6 +1,6 @@
 - 👋 Hi, @anashe here
 - 👀 I’m interested in coding and reading
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently making projects using Python
 - 💞️ I’m looking to collaborate on projects
 - 😄 Pronouns: she/her
 
