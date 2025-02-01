@@ -1,5 +1,4 @@
-- 👋 Hi, @anashe here
-- # 💫 About Me:
+ # 💫 About Me:
 🔭 I’m currently working on data analysis projects<br>👯 I’m looking to collaborate on data analysis, data science, and python projects<br>🤝 I’m looking for help with data science, ML<br>🌱 I’m currently learning ML<br>💬 Ask me about Python, Python library, python packages, data analysis<br>⚡ Fun fact: A 3.14-foot snake is a Py-thon.
 
 
