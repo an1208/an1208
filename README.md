@@ -14,6 +14,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=an1208&icon=0&color=0)](https://visitcount.itsvg.in)
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@anashiiiiii/30-nites-of-code)  
+  ![@anashiiiiii #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anashiiiiii)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
