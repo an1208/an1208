@@ -1,5 +1,5 @@
  # 💫 About Me:
-🔭 I’m currently working on machine learning projects<br>👯 I’m looking to collaborate on data analysis, data science, and python projects<br>🤝 I’m looking for help with data science, ML<br>🌱 I’m currently learning ML<br>💬 Ask me about Python, Python library, python packages, and machine learning<br>⚡ Fun fact: A 3.14-foot snake is a Py-thon.
+🔭 I’m currently working on machine learning projects<br>👯 I’m looking to collaborate on machine learning, data science, and python projects<br>🌱 I’m currently learning ML<br>💬 Ask me about Python, Python library, python packages, and machine learning<br>⚡ Fun fact: A 3.14-foot snake is a Py-thon.
 
 
 ## 🌐 Socials:
