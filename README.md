@@ -36,6 +36,13 @@ An end-to-end computer vision application that utilizes a deep learning model to
 * **Highlight:** Optimized model performance by implementing a Convolutional Neural Network (CNN) architecture, achieving over 98% accuracy through strategic data normalization and dropout layers to prevent overfitting.
 * **Stack:** Python, TensorFlow/Keras, NumPy, Matplotlib, MNIST Dataset.
 
+### 📊 [Customer Churn Prediction using Machine Learning](https://github.com/an1208/TELECOM-DATA-CHURN-PROJECT)
+
+An end-to-end machine learning project designed to predict telecom customer churn using demographic and service usage data, enabling proactive, data-driven retention strategies.
+
+* **Highlight:** Improved churn detection by addressing class imbalance using SMOTE and optimizing a Random Forest model with GridSearchCV, achieving strong recall (79%) and ROC-AUC (~0.83) for identifying high-risk customers.
+* **Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Imbalanced-learn (SMOTE), Telco Customer Churn Dataset.
+
 ---
 
 ## 🎓 Education
