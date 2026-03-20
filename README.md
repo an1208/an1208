@@ -54,7 +54,7 @@ An end-to-end machine learning project designed to predict telecom customer chur
 
 ## 💼 Let's Connect
 
-I am currently open to **[Full-time/Contract]** roles in **Machine Learning, Data Science**. 
+I am currently open to **[Full-time]** roles in **Machine Learning, Data Analysis**. 
 
 * ✉️ anushka.sh0812@gmail.com
 * 🔗 Anushka Sharma (https://www.linkedin.com/in/anushka-sharma-1208ans/)
