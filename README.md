@@ -58,14 +58,13 @@ A 24/7 Python-powered market sentinel that monitors live data and delivers insta
 
 ## 🎓 Education
 
-* **Bachelor of Technology** — GGSIPU ([8.96/10])
-* **Certifications:** Machine Learning Specialization (Andrew Ng)
+* **Bachelor of Technology** — GGSIPU 
 
 ---
 
 ## 💼 Let's Connect
 
-I am currently open to **Full-time** roles in **Machine Learning, AI and Data Analysis**. 
+I am currently open to **Full-time, Internship** roles in **Machine Learning, AI and Data Analysis**. 
 
 * ✉️ anushka.sh0812@gmail.com
 * 🔗 Anushka Sharma (https://www.linkedin.com/in/anushka-sharma-1208ans/)
