@@ -9,8 +9,8 @@
 
 ## 🚀 Current Focus
 
-* **Student** — Looking forward to pursue my passion in Machine Learning.
-    * **Key Work:** Stock Price Alert Bot, Digit Recognition using MNIST data.
+* **Engineering Student & Developer** — Focused on designing scalable data processing pipelines and backend services for Machine Learning and Mobility Systems.
+    * **Key Work:** Behavioral Cloning for Autonomous Control (imitation learning on 150k+ demonstrations) and a Production-Style CSV Analytics API with integrated CI/CD workflows.
 
 ---
 
@@ -65,7 +65,7 @@ A 24/7 Python-powered market sentinel that monitors live data and delivers insta
 
 ## 💼 Let's Connect
 
-I am currently open to **[Full-time]** roles in **Machine Learning, Data Analysis**. 
+I am currently open to **Full-time** roles in **Machine Learning, AI and Data Analysis**. 
 
 * ✉️ anushka.sh0812@gmail.com
 * 🔗 Anushka Sharma (https://www.linkedin.com/in/anushka-sharma-1208ans/)
