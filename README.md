@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Current Focus
+## 🚀Current Focus
 
 * **Engineering Student & Developer** — Focused on designing scalable data processing pipelines and backend services for Machine Learning and Mobility Systems.
     * **Key Work:** Behavioral Cloning for Autonomous Control (imitation learning on 150k+ demonstrations) and a Production-Style CSV Analytics API with integrated CI/CD workflows.
