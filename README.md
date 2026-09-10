@@ -1,6 +1,6 @@
 # Hi, I'm Anushka Sharma 👋
 
-### Machine Learning Engineer 
+### AI Engineer 
 **Btech in ECE with minor in ML and DA** 
 
 [Email](anushka.sh0812@gmail.com) • [LinkedIn](www.linkedin.com/in/anushka-sharma-1208ans) 
