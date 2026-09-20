@@ -53,6 +53,11 @@ An end-to-end machine learning project designed to predict telecom customer chur
 A 24/7 Python-powered market sentinel that monitors live data and delivers instant desktop alerts via yfinance when your target price hits.
 * **Highlight:** Implemented a persistent monitoring loop with state-management logic to prevent redundant alerts and ensure real-time accuracy without API rate-limiting.
 * **Stack:** Python, yfinance, plyer, schedule, Git.
+### 🧪 [CartTalk Agent](https://github.com/an1208/carttalk_rzpay_project)
+
+### 🧪 [Policy Corpus RAG Assistant](https://github.com/an1208/rag-project-)
+
+
 ---
 
 ## 🎓 Education
