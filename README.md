@@ -1,6 +1,5 @@
 # Hi, I'm Anushka Sharma 👋
-
-### AI Engineer 
+ 
 
 [Email](anushka.sh0812@gmail.com) • [LinkedIn](www.linkedin.com/in/anushka-sharma-1208ans) 
 
